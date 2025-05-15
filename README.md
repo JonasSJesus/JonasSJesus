@@ -1,3 +1,19 @@
-## Olá 🖖🏻 Eu sou o Jonas!
+# 👋 Olá, eu sou o Jonas
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonasSJesus)](https://github.com/anuraghazra/github-readme-stats&theme=onedark)
+Desenvolvedor Web focado em backend, com experiência em PHP, Laravel e AWS.
+
+> Busco criar soluções simples, eficientes e bem estruturadas.
+
+## 🚀 Tecnologias
+
+- PHP • Laravel • AWS  
+- HTML • CSS
+
+## 📈 Estatísticas
+
+![Jonas GitHub stats](https://github-readme-stats.vercel.app/api?username=JonasSJesus&show_icons=true&theme=default&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasjesus&layout=compact&theme=default)
+
+## 🌐 Contato
+
+[LinkedIn](https://www.linkedin.com/in/jonas-silva-de-jesus)
