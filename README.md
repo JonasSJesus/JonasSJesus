@@ -12,7 +12,7 @@ Desenvolvedor Web focado em backend, com experiência em PHP, Laravel e AWS.
 ## 📈 Estatísticas
 
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=JonasSJesus&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com/?user=JonasSJesus&theme=default&theme=onedark)
 
 ## 🌐 Contato
 
