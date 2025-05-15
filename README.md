@@ -11,7 +11,10 @@ Desenvolvedor Web focado em backend, com experiência em PHP, Laravel e AWS.
 
 ## 📈 Estatísticas
 
-![Jonas GitHub stats](https://github-readme-stats.vercel.app/api?username=JonasSJesus&show_icons=true&theme=default&hide_title=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=JonasSJesus&theme=default)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JonasSJesus&theme=default&hide_border=true&area=true)
 
 ## 🌐 Contato
 
